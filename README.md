@@ -18,7 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7-4real&layout=compact)](https://github.com//github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7-4real&layout=compact)](https://github.com/A7-4real/github-readme-stats)
 
 
 <div align="center">
