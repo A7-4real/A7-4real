@@ -10,6 +10,8 @@
 
 [![A7-4real's GitHub stats](https://github-readme-stats.vercel.app/api?username=A7-4real&theme=radical)](https://github.com/A7-4real/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A7-4real&theme=dark)](https://git.io/streak-stats)
+
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
