@@ -8,7 +8,6 @@
 - 📫 How to reach me: a7.4real@gmail.com
 - 😄 Pronouns: He/Him
 
-![](https://komarev.com/ghpvc/?username=A7-4real)
 
 [![A7-4real's GitHub stats](https://github-readme-stats.vercel.app/api?username=A7-4real&theme=radical)](https://github.com/A7-4real/github-readme-stats)
 
